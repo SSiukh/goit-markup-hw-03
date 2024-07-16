@@ -212,6 +212,7 @@ img {
 }
 
 .section-third-items {
+  border-radius: 0px 0px 4px 4px;
   text-align: center;
   background-color: #fff;
   width: calc((100%-72px) / 4);
