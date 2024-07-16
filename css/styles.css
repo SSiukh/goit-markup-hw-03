@@ -27,22 +27,23 @@ img {
   display: block;
 }
 .container {
-  display: flex;
-  width: 1440px;
-  flex-direction: column;
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 
 .header {
   background-color: #ffffff;
-  padding: 24px 156px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
   border-bottom: 1px solid #e7e9fc;
+}
+
+.header-container {
+  display: flex;
 }
 
 .nav {
   display: flex;
+  align-items: center;
 }
 
 .logo {
