@@ -156,21 +156,24 @@ img {
   width: 1px;
   height: 1px;
   margin: -1px;
-  padding: 0;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
   border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
 }
 
-.section-2-list {
+.section-second-list {
   display: flex;
   gap: 24px;
 }
 
-.section-2-items {
+.section-second-items {
   width: calc((100%-72px) / 4);
 }
-.title-3 {
+.title-third {
   margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
