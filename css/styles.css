@@ -261,6 +261,7 @@ img {
 }
 
 .footer-logo {
+  display: inline-block;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
