@@ -258,6 +258,7 @@ img {
   font-weight: 700;
   color: #f4f4fd;
   text-transform: uppercase;
+  margin-bottom: 16px;
 }
 .footer-text {
   font-weight: 400;
