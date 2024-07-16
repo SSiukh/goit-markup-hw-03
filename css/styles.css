@@ -108,8 +108,6 @@ img {
   color: #404bbf;
 }
 
-/* /////////////////SECTIONS//////////////////////// */
-
 .section-first {
   background-color: #2e2f42;
   padding: 188px 0;
@@ -144,8 +142,6 @@ img {
 .button:hover {
   background-color: #404bbf;
 }
-
-/* ///////////////////////////////////////// */
 
 .section-second {
   padding: 120px 0;
@@ -188,8 +184,6 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-/* ////////////////////////////////////////// */
 
 .section-third {
   padding: 120px 0;
@@ -240,8 +234,6 @@ img {
   text-align: center;
 }
 
-/* //////////////////////////////////s */
-
 .section-list-fourth {
   display: flex;
   flex-wrap: wrap;
@@ -262,16 +254,12 @@ img {
   border: 1px solid #e7e9fc;
   border-top: none;
 }
-.section-fourth-container
 
-/* ////////////////////////////////////// */
 .footer {
   background: #2e2f42;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  padding: 100px 156px;
+  padding: 100px 0;
 }
+
 .footer-logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
